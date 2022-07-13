@@ -1,0 +1,16 @@
+{
+    "paper-key": {
+        "title": "Title of paper",
+        "authors": "Author1, Author2,...,Authorn",
+        "venue": "Publication conference or journal",
+        "short_venue": "Acronym for publication venue",
+        "year": 2022,
+        "participants": [
+            "GitHub usernames",
+            "chbrown13"
+        ],
+        "location": "Location of conference, if applicable",
+        "doi": "link to digital object identifier",
+        "pdf": "link to pdf"
+    }
+}
