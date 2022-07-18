@@ -2054,11 +2054,11 @@ input, select, textarea {
 				}
 
 			.icon.featured.alt2 {
-				background-color: #0057a6;
+				background-color: #2b328f;
 			}
 
 				.icon.featured.alt2:after {
-					border-top-color: #0057a6;
+					border-top-color: #2b328f;
 				}
 
 /* Page Wrapper */
@@ -2179,7 +2179,7 @@ input, select, textarea {
 /* Banner */
 
 	#banner {
-		background: #f0f0f0;
+		background: #0057a6;
 		background-position: center center;
 		background-size: auto 100%;
 		background-repeat: no-repeat;
